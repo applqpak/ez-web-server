@@ -1,5 +1,5 @@
 {
-  "name": "web-server",
+  "name": "ez-web-server",
   "version": "1.0.0",
   "description": "My first NPM package. Easily create, and maintain a web server.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/applqpak/web-server.git"
+    "url": "git://github.com/applqpak/ez-web-server.git"
   },
   "keywords": [
     "http",
@@ -19,11 +19,11 @@
   "licenses": [
     {
       "type": "GNU",
-      "url": "https://github.com/applqpak/web-server/blob/master/LICENSE"
+      "url": "https://github.com/applqpak/ez-web-server/blob/master/LICENSE"
     }
   ],
   "bugs": {
-    "url": "https://github.com/applqpak/web-server/issues"
+    "url": "https://github.com/applqpak/ez-web-server/issues"
   },
   "devDependencies": {
   }
